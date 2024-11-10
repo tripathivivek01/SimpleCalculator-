@@ -1,0 +1,28 @@
+
+### .gitignore
+
+```gitignore
+# Compiled object files
+*.o
+
+# Executable files
+UniversalCalculator
+
+# Backup files
+*~
+*.bak
+
+# IDE specific files (e.g., Visual Studio, Code::Blocks)
+.vscode/
+.idea/
+*.user
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.cbp
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
